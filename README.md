@@ -1,2 +1,2 @@
-# python-class-diagram
-Pythonでクラス図生成時の環境
+# pygraphviz
+Pythonのクラス図生成時用のdocker環境
